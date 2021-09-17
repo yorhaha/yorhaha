@@ -1,4 +1,10 @@
-### Hi there 👋
+### My interested languages
+
+- C/C++
+- Python
+- Go
+
+### Score
 
 ![](https://github-readme-stats.vercel.app/api?username=blueice-thu)
 
