@@ -11,7 +11,7 @@ My GitPage: https://blueice-thu.github.io
 
 ![](https://github-readme-stats.vercel.app/api?username=blueice-thu)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=blueice-thu&exclude_repo=blueice-thu,blueice-thu.github.io,github-readme-stats,EverPhotoCheckin,MovieRecommend)]()
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=blueice-thu&exclude_repo=blueice-thu,blueice-thu.github.io,github-readme-stats,EverPhotoCheckin,MovieRecommend&langs_count=8&layout=compact)]()
 
 <!--
 **blueice-thu/blueice-thu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
