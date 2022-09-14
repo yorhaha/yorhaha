@@ -1,5 +1,3 @@
-My GitPage: https://blueice-thu.github.io
-
 ### My interested languages
 
 - C/C++
