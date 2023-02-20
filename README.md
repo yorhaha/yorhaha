@@ -5,6 +5,13 @@
 - Go
 - Java
 
+### My interested research
+
+- Data science
+- Machine learning
+- Deep learning
+- Reinforce learning
+
 ### Score
 
 ![](https://github-readme-stats.vercel.app/api?username=yorhaha)
