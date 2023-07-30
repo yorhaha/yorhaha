@@ -17,9 +17,10 @@
 ### My skills
 
 - Git
+- Linux
 - Frondtend Development (Vue.js)
 - Backend Development (Flask, FastApi)
-- Deploy (nginx, Docker)
+- Deployment (nginx, Docker)
 
 ### My interested research
 
