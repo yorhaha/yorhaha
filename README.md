@@ -12,13 +12,14 @@
 
 - Python
 - C/C++
-- Go, Java, JavaScript, ...
+- Go, Java
+- JavaScript, TypeScript...
 
 ### My skills
 
 - Git
 - Linux
-- Frondtend Development (Vue.js)
+- Frontend Development (Vue.js)
 - Backend Development (Flask, FastApi)
 - Deployment (nginx, Docker)
 
