@@ -1,23 +1,40 @@
 ### Education
 
+- Master in Artificial Intelligence, 2022-2025
+
+  Institute of Automation, Chinese Academy of Sciences, Beijing, China
+
 - Bachelor in Software Engineering, 2017-2022
   
   School of Software, Tsinghua University, Beijing, China
 
 ### My interested languages
 
-- C/C++
 - Python
-- Go
-- Java
+- C/C++
+- Go, Java, JavaScript, ...
+
+### My skills
+
+- Git
+- Frondtend Development (Vue.js)
+- Backend Development (Flask, FastApi)
+- Deploy (nginx, Docker)
 
 ### My interested research
 
-- Data science
-- Machine learning
-- Deep learning
+- Large Language Model
 - Reinforce learning
+- Natural Language Processing
+- Deep learning
 - Intrusion detection
+
+### Internship experience
+
+- AgiBot: Algorithm Intern
+- [AMD](https://www.amd.com/): Algorithm Intern
+- [NIO](https://www.nio.cn/): Software Development Intern
+- [Microsoft](https://www.microsoft.com/zh-cn/ard/aboutus/teams-STCA): Software Development Intern
 
 ### Score
 
