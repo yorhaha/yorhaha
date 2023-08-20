@@ -26,14 +26,14 @@
 ### My interested research
 
 - Large Language Model
-- Reinforce learning
+- Reinforcement learning
 - Natural Language Processing
 - Deep learning
 - Intrusion detection
 
 ### Internship experience
 
-- AgiBot: Algorithm Intern
+- [AgiBot](https://www.agibot.com/): Algorithm Intern
 - [AMD](https://www.amd.com/): Algorithm Intern
 - [NIO](https://www.nio.cn/): Software Development Intern
 - [Microsoft](https://www.microsoft.com/zh-cn/ard/aboutus/teams-STCA): Software Development Intern
