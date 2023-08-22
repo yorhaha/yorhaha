@@ -1,3 +1,12 @@
+Recently working on:
+
+- https://github.com/huggingface/transformers
+- https://github.com/huggingface/accelerate
+- https://github.com/huggingface/peft
+- https://github.com/huggingface/trl
+
+---
+
 ### Education
 
 - Master in Artificial Intelligence, 2022-2025
