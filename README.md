@@ -1,19 +1,18 @@
 Recently working on:
 
-- https://github.com/huggingface/transformers
-- https://github.com/huggingface/accelerate
-- https://github.com/huggingface/peft
-- https://github.com/huggingface/trl
+- Large Language Model
+- Parameter-Efficient Fine-Tuning
+- Retrieval-Augmented Generation (RAG)
 
 ---
 
 ### Education
 
-- Master in Artificial Intelligence, 2022-2025
+- Master of Artificial Intelligence, 2022-2025
 
   Institute of Automation, Chinese Academy of Sciences, Beijing, China
 
-- Bachelor in Software Engineering, 2017-2022
+- Bachelor of Software Engineering, 2017-2022
   
   School of Software, Tsinghua University, Beijing, China
 
@@ -31,13 +30,13 @@ Recently working on:
 - Frontend Development (Vue.js)
 - Backend Development (Flask, FastApi)
 - Deployment (nginx, Docker)
+- PyTorch, TensorFlow
 
 ### My interested research
 
 - Large Language Model
 - Reinforcement learning
 - Natural Language Processing
-- Deep learning
 - Intrusion detection
 
 ### Internship experience
@@ -51,4 +50,4 @@ Recently working on:
 
 ![](https://github-readme-stats.vercel.app/api?username=yorhaha)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yorhaha&exclude_repo=yorhaha,yorhaha.github.io,github-readme-stats,EverPhotoCheckin,MovieRecommend&langs_count=8&layout=compact)]()
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yorhaha&exclude_repo=yorhaha,yorhaha.github.io,github-readme-stats,MovieRecommend&langs_count=8&layout=compact)]()
