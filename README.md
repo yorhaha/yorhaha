@@ -50,4 +50,4 @@ Recently working on:
 
 ![](https://github-readme-stats.vercel.app/api?username=yorhaha)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yorhaha&exclude_repo=yorhaha,yorhaha.github.io,github-readme-stats,MovieRecommend&langs_count=8&layout=compact)]()
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yorhaha&exclude_repo=blogs,CICFlowMeter,kdd99_feature_extractor,MovieRecommend,yorhaha,yorhaha.github.io&langs_count=8&layout=compact)]()
