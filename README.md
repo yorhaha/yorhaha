@@ -1,7 +1,8 @@
 Recently working on:
 
-- Large Language Model
-- Parameter-Efficient Fine-Tuning
+- Parameter Efficient Fine Tuning for LLM
+- LLM Agent
+- Reinforcement learning from human feedback (RLHF)
 - Retrieval-Augmented Generation (RAG)
 
 My interesting codes:
