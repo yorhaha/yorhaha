@@ -56,6 +56,8 @@ My interesting codes:
 
 ### Score
 
+<img src="https://komarev.com/ghpvc/?username=yorhaha&style=for-the-badge" />
+
 ![](https://github-readme-stats.vercel.app/api?username=yorhaha)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yorhaha&exclude_repo=blogs,CICFlowMeter,kdd99_feature_extractor,MovieRecommend,yorhaha,yorhaha.github.io&langs_count=8&layout=compact)]()
