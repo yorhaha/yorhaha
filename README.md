@@ -1,6 +1,5 @@
 Recently working on:
 
-- Parameter Efficient Fine Tuning for LLM
 - LLM Agent
 - Reinforcement learning from human feedback (RLHF)
 - Retrieval-Augmented Generation (RAG)
@@ -35,7 +34,7 @@ My interesting codes:
 
 - Git
 - Linux
-- Frontend Development (Vue.js)
+- Frontend Development (Vue.js, ElementPlus)
 - Backend Development (Flask, FastApi)
 - Deployment (nginx, Docker)
 - PyTorch, TensorFlow
@@ -49,6 +48,7 @@ My interesting codes:
 
 ### Internship experience
 
+- [Zhipu AI](https://www.zhipuai.cn/): Algorithm Intern
 - [AgiBot](https://www.agibot.com/): Algorithm Intern
 - [AMD](https://www.amd.com/): Algorithm Intern
 - [NIO](https://www.nio.cn/): Software Development Intern
