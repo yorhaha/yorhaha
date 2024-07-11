@@ -39,15 +39,9 @@ My interesting codes:
 - Deployment (nginx, Docker)
 - PyTorch, TensorFlow
 
-### My interested research
-
-- Large Language Model
-- Reinforcement learning
-- Natural Language Processing
-- Intrusion detection
-
 ### Internship experience
 
+- [Alibaba Group](#): Algorithm Intern
 - [Zhipu AI](https://www.zhipuai.cn/): Algorithm Intern
 - [AgiBot](https://www.agibot.com/): Algorithm Intern
 - [AMD](https://www.amd.com/): Algorithm Intern
