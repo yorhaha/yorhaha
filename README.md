@@ -2,14 +2,6 @@ Recently working on:
 
 - LLM Agent
 - Reinforcement learning from human feedback (RLHF)
-- Retrieval-Augmented Generation (RAG)
-
-My interesting codes:
-
-- [LLM-tools](https://github.com/yorhaha/LLM-tools): Tool codes for LLM development. (Recently started)
-- [kdd99_feature_extractor](https://github.com/yorhaha/kdd99_feature_extractor): A forked project which can extract more features from network flow.
-- [ftp-server-client](https://github.com/yorhaha/ftp-server-client): FTP client and server by C and Qt.
-- [PokemonFight](https://github.com/yorhaha/PokemonFight): A Qt-based C++ game.
 
 ---
 
