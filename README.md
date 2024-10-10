@@ -7,11 +7,11 @@ Recently working on:
 
 ### Education
 
-- Master of Artificial Intelligence, 2022-2025
+- Master of Artificial Intelligence
 
   Institute of Automation, Chinese Academy of Sciences, Beijing, China
 
-- Bachelor of Software Engineering, 2017-2022
+- Bachelor of Software Engineering
   
   School of Software, Tsinghua University, Beijing, China
 
