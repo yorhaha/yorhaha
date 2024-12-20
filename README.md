@@ -1,7 +1,6 @@
 Recently working on:
 
-- LLM Agent
-- Reinforcement learning from human feedback (RLHF)
+- LLM code agent
 
 ---
 
@@ -33,12 +32,12 @@ Recently working on:
 
 ### Internship experience
 
-- [Alibaba Group](#): Algorithm Intern
-- [Zhipu AI](https://www.zhipuai.cn/): Algorithm Intern
-- [AgiBot](https://www.agibot.com/): Algorithm Intern
-- [AMD](https://www.amd.com/): Algorithm Intern
-- [NIO](https://www.nio.cn/): Software Development Intern
-- [Microsoft](https://www.microsoft.com/zh-cn/ard/aboutus/teams-STCA): Software Development Intern
+- [Alibaba Group](#)
+- [Zhipu AI](https://www.zhipuai.cn/)
+- [AgiBot](https://www.agibot.com/)
+- [AMD](https://www.amd.com/)
+- [NIO](https://www.nio.cn/)
+- [Microsoft](https://www.microsoft.com/zh-cn/ard/aboutus/teams-STCA)
 
 ### Score
 
