@@ -1,8 +1,27 @@
 Recently working on:
 
-- LLM code agent
+- LLM agent (Code, GUI)
+- LLM4Rec
+
+> Welcome for cooperation and communication!
+
+My Zhihu homepage: https://www.zhihu.com/people/sunstar17
 
 ---
+
+### Work experience
+
+- ByteDance
+
+### Internship experience
+
+- ByteDance
+- Alibaba Group (Qwen)
+- Zhipu AI (Agent)
+- AgiBot
+- AMD
+- NIO
+- Microsoft SCTA
 
 ### Education
 
@@ -29,15 +48,6 @@ Recently working on:
 - Backend Development (Flask, FastApi)
 - Deployment (nginx, Docker)
 - PyTorch, TensorFlow
-
-### Internship experience
-
-- [Alibaba Group](#)
-- [Zhipu AI](https://www.zhipuai.cn/)
-- [AgiBot](https://www.agibot.com/)
-- [AMD](https://www.amd.com/)
-- [NIO](https://www.nio.cn/)
-- [Microsoft](https://www.microsoft.com/zh-cn/ard/aboutus/teams-STCA)
 
 ### Score
 
